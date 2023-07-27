@@ -103,6 +103,13 @@ namespace _005
             {
                 GameOver();
             }
+            GetScore();
+
+            WinGame();
+        }
+
+        private void GetScore()
+        {
             foreach (Control x in this.Controls)
             {
                 if (x is PictureBox && x.Tag == "block")
@@ -115,7 +122,10 @@ namespace _005
                     }
                 }
             }
+        }
 
+        private void WinGame()
+        {
             if (score > 30)
             {
                 GameOver();
