@@ -1,0 +1,13 @@
+C:\嘉大\視窗程式課\005\005\bin\Debug\005.exe.config
+C:\嘉大\視窗程式課\005\005\bin\Debug\005.exe
+C:\嘉大\視窗程式課\005\005\bin\Debug\005.pdb
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.csproj.AssemblyReference.cache
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.csproj.SuggestedBindingRedirects.cache
+C:\嘉大\視窗程式課\005\005\obj\Debug\_005.Form1.resources
+C:\嘉大\視窗程式課\005\005\obj\Debug\_005.Properties.Resources.resources
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.csproj.GenerateResource.cache
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.csproj.CoreCompileInputs.cache
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.exe
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.pdb
+C:\嘉大\視窗程式課\005\005\obj\Debug\Interop.WMPLib.dll
+C:\嘉大\視窗程式課\005\005\obj\Debug\005.csproj.ResolveComReference.cache
