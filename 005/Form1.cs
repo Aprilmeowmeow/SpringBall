@@ -10,9 +10,9 @@ namespace _005
     {
         bool goRight;
         bool goLeft;
-        int speed = 10;
-        int ballx = 5;
-        int bally = 5;
+        int speed = 30;
+        int ballx = 20;
+        int bally = 20;
         int score = 0;
         private Random rnd = new Random();
         private readonly WindowsMediaPlayer player = new WindowsMediaPlayer();
